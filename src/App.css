@@ -36,3 +36,173 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.categories{
+  margin-top: 5%;
+  width: 1290px;
+}
+
+.fa-search.fa-lg{
+      position: fixed;
+     padding-left: 10px;
+    
+    }
+    .fa.fa-plus{
+      position: fixed;
+     padding-left: 10px;
+    
+    }
+ .form-control{
+   height: 50px !important;
+   width: 200px !important;
+  border: 2px solid black !important;
+ }   
+
+form.example input{
+  height: 48px !important;
+  width: 670px !important;
+  border: 2px solid black !important;
+  font-size: 18px;
+}
+
+form.example button {
+ 
+  width: 54px;
+  height: 49px;
+   padding-bottom: 16px; 
+  padding-right: 40px;
+  background: rgb(41, 41, 41);
+  color: white;
+  font-size: 17px;
+  cursor: pointer;
+  
+}
+
+
+.nav-link{
+  color: black;
+ font-weight: bold;
+text-decoration: underline ;
+ 
+}
+
+.fa-plus{
+        padding-right: 200px !important;
+}
+.sell-button{
+    width: 50px;
+      border-radius: 20px;
+     border-width: thick;
+    border-right-color:blue;
+    border-bottom-color: blue;
+    border-left-color:green;
+    border-top-color:green ;
+      padding-right: 90px;
+      padding-bottom: 15px;
+      
+}
+h6{
+  margin-left: 15px;
+  margin-top: 10px !important;
+}
+
+.fa-arrow-down{
+  border: none !important;
+  background-color: white;
+  margin-top: 3px;
+}
+.navbar-nav{
+  margin-left: 40px;
+ 
+}
+
+.navbar.bg-white{
+  box-shadow: 2px 2px 6px rgb(189, 188, 188);
+  background-color: white;
+ 
+}
+.App{
+  background-color:rgb(240, 240, 240);
+ margin-top: 50px;
+ margin: 20px;
+ 
+} 
+ p{
+  font-size: 27px;
+ 
+  margin-right: 700px !important;
+ }
+
+ .card{
+ 
+  margin-left: 10px;
+  width: 15rem;
+  border-left-width: 3px !important;
+  border-left-color:yellow !important;
+ 
+} 
+
+.card .card-img-top{
+  width: 200px;
+  margin: 0 auto;
+ margin: 15PX !important;
+}
+
+.card .card-img-top-mobile{
+    width: 160px;
+    margin: 0 auto;
+    margin-top: 12px;
+}
+.fresh-para{
+  margin-left: 50px !important;
+}
+.fresh{
+  margin-left: 30px !important;
+  margin-top: 17px  !important;
+}
+
+.olxapp{
+  margin-top: 250px;
+}
+
+.main-footer{
+   background-color: rgb(224, 224, 230); 
+  
+}
+.row-footer{
+  margin-left: 20px !important;
+}
+span{
+  color: #002f34;
+  font-size: 14px;
+    line-height: 20px;
+    font-weight: 700;
+}
+._2XmAi{
+  font-size: 12px;
+-webkit-tap-highlight-color: transparent;
+margin-left: -30px !important;
+ color: #527277;
+}
+li{
+  list-style-type: none;
+}
+
+.fa.fa-facebook-square{
+  margin-right:8px ;
+}
+
+
+.fa.fa-twitter-square{
+  margin-right:8px ;
+}
+
+.fa.fa-youtube-play{
+  margin-right:8px ;
+}
+
+.fa.fa-instagram{
+  margin-right:8px ;
+}
